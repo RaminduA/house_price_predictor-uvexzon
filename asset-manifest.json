@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/house_price_predictor-uvexzon/Frontend/static/css/main.ca67ef22.css",
+    "main.js": "/house_price_predictor-uvexzon/Frontend/static/js/main.d2507022.js",
+    "index.html": "/house_price_predictor-uvexzon/Frontend/index.html",
+    "main.ca67ef22.css.map": "/house_price_predictor-uvexzon/Frontend/static/css/main.ca67ef22.css.map",
+    "main.d2507022.js.map": "/house_price_predictor-uvexzon/Frontend/static/js/main.d2507022.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca67ef22.css",
+    "static/js/main.d2507022.js"
+  ]
+}
